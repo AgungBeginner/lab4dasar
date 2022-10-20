@@ -3,5 +3,6 @@
 # hai
 
 membuat layout sederhana terlebih dahulu ini syntax nya dengan tampilannya
-![gambar 1](screenshot.ss1.png)
-![gambar 2](screenshot.ss2.png)
+![image 1](screenshot.ss1.png)
+![iamge 2](screenshot.ss2.png)
+
